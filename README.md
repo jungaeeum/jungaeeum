@@ -5,8 +5,8 @@
 Techs that I've used at least once
 </div>
 
-<br />
-<br />
+
+
 
 
 <div align=center>
@@ -27,13 +27,17 @@ Techs that I've used at least once
 
 </div>
 
+<br />
+<br />
+
 <div align=center>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungaeeum&show_icons=true&theme=dracula)](https://github.com/jungaeeum/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungaeeum&layout=compact)](https://github.com/jungaeeum/github-readme-stats)
 	
 </div>
 
-
+<br />
+<br />
 
 
 <div align=center>
