@@ -80,7 +80,6 @@ Techs that I've used at least once
 
 
 <br />
-<br />
 
 
 <div align=center>
