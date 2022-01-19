@@ -30,6 +30,14 @@ Techs that I've used at least once
 <br />
 
 <div align=center>
+	
+<h3> 📫 How to reach me 📫 </h3>
+
+</div>
+
+
+
+<div align=center>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungaeeum&show_icons=true&theme=dracula)](https://github.com/jungaeeum/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungaeeum&layout=compact)](https://github.com/jungaeeum/github-readme-stats)
 	
@@ -46,13 +54,11 @@ Techs that I've used at least once
 </div>
 	
 
-
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 
+- ⚡ 
 -->
