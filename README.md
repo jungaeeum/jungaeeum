@@ -1,4 +1,15 @@
 <div align=center>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+</div>
+
+<br />
+<br />
+
+
+<div align=center>
   <h3> 🛠 Tech Stack 🛠 </h3>
 </div>
 <div align=center>
