@@ -50,10 +50,12 @@ Techs that I've used at least once
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/affection_eum/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>&nbsp
-	
 <a href="mailto:jungaeeum@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"
 	 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>&nbsp
+<a href="https://www.linkedin.com/in/jungae-eum-a11451218/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jungae-eum-a11451218/"
+	 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 	
 
 
