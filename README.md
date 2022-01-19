@@ -1,9 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hi!%20I'm%20 Jungae!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000" />
 
+<br />
+<br />
+
 <div align=center>
-	
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hi!%20I'm%20 Jungae!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
-	
+		
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
