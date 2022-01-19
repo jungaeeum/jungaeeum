@@ -1,3 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hi!%20I'm%20 Jungae!&fontSize=90)
+
+
+
 <div align=center>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
