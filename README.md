@@ -15,7 +15,12 @@ Techs that I've used at least once
 [![N|Solid](https://img.shields.io/badge/arduino-00979D?style=flat-square&logo=arduino&logoColor=white)](https://) [![N|Solid](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://)
 
 
+
+<div align=center>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungaeeum&show_icons=true&theme=dracula)](https://github.com/jungaeeum/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungaeeum&layout=compact)](https://github.com/jungaeeum/github-readme-stats)
+	
+</div>
 
 
 
