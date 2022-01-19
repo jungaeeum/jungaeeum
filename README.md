@@ -26,21 +26,28 @@ Techs that I've used at least once
 
 </div>
 
-<br />
-<br />
-
-<div align=center>
-	
-<h3> 📫 How to reach me 📫 </h3>
-
-</div>
-
 
 
 <div align=center>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungaeeum&show_icons=true&theme=dracula)](https://github.com/jungaeeum/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungaeeum&layout=compact)](https://github.com/jungaeeum/github-readme-stats)
 	
+</div>
+
+<br />
+<br />
+
+<div align=center>
+	
+<h3> 📫 How to reach me 📫 </h3>
+	
+<a href="https://instagram.com/alpox.dev">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
+
 </div>
 
 <br />
