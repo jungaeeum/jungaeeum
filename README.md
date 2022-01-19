@@ -26,7 +26,8 @@ Techs that I've used at least once
 
 </div>
 
-
+<br />
+<br />
 
 <div align=center>
 
@@ -41,10 +42,14 @@ Techs that I've used at least once
 	
 <h3> 📫 How to reach me 📫 </h3>
 	
-<a href="https://instagram.com/alpox.dev">
+<a href="https://instagram.com/affection_eum">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/affection_eum/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+	
+<a href="mailto:jungaeeum@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"
+	 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
 
