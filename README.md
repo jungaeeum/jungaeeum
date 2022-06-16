@@ -33,6 +33,7 @@ Techs that I've used at least once
 
 <div align=center>
 
+[![N|Solid](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)](https://)
 [![N|Solid](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://) [![N|Solid](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://) [![N|Solid](https://img.shields.io/badge/React-Native-61DAFB?style=flat-square&logo=react&logoColor=white)](https://) [![N|Solid](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)](https://) [![N|Solid](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://)
 
 </div>
