@@ -1,6 +1,7 @@
 <div align=center>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,2,5,30&height=160&section=header&text=Hi!%20I'm%20 JungAe!&fontAlign=50&fontAlignY=70&fontSize=80&fontColor=000000"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi!%20I'm%20 JungAe!&fontSize=90" />
+
 
 </div>
 
